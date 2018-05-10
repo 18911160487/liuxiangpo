@@ -1,0 +1,15 @@
+@import './flex.css';
+@import './index.css';
+html,body{
+	margin: 0;
+	padding: 0;
+	background: red;
+}
+ul,li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
+}
+
+
